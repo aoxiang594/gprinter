@@ -1,5 +1,8 @@
 # 佳博云打印
 
+```
+composer require aoxiang/cloud-gprinter
+```
 
 我是用来`打印标签`(不是票据、不是票据、不是票据)
 
